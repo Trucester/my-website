@@ -1,0 +1,14 @@
+    .contact-info {
+        margin-top: 70px;
+    }
+    
+      .row {
+      width: 100%;
+      }
+      
+      .map, .form {
+          padding: 5px;
+          border: 10px solid blue;
+      }
+      
+   

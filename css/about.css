@@ -1,0 +1,41 @@
+    .main {
+    margin: 0 auto;
+    width: 100%;
+    }
+    
+    .col {
+    height: 1100px;
+    width: 28%;
+    border: 3px solid blue;
+    float: left;
+    margin-top: 80px;
+    margin-left: 15px;
+    padding: 15px;
+     }
+     
+     .col-img {
+         height: 300px;
+         width: 100%;
+     }
+         
+     .col p {
+         text-align: justify;
+         padding: 10px;
+         }
+         
+    .audio {
+        display: block;
+        margin: 0 auto;
+        padding: 10px;
+    }
+    
+    .col-vid {
+        margin-top: 20px
+    }
+    
+    .main {
+        margin: 0 auto;
+        width: 100%; 
+    }
+    
+    
