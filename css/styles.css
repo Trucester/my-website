@@ -4,7 +4,7 @@ body {
 }
 
 .nav-bar {
-    height: 100px;  
+    height: 200px;  
     width: 100%;
     background-color: #1affff; /*light blue*/
     position: fixed;
@@ -14,7 +14,7 @@ body {
 .logo {
     height: 70px;
     width: 70px;
-}
+    }
 
 .nav-list {
     float: right;
